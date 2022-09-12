@@ -1,0 +1,7 @@
+greeting:
+  name: ${greeting-name}
+  coffee: ${greeting-name} ${greeting-coffee}
+
+droid:
+  id: ${droid-id}
+  description: ${droid-description}
